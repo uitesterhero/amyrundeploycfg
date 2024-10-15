@@ -1,4 +1,4 @@
-
+version: ""
 app:
   # build id to deploy. if 'version' is commented out, the application is not deployed
   maven:
